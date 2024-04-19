@@ -38,7 +38,7 @@ This PHP script performs the following tasks:
 6. To get the link for a specific answered question, use the provided question ID and concatenate it with the base URL for Chegg Expert. For example:
    - Base URL: `https://www.chegg.com/expert-qa/questions/`
    - Question ID: `12345678`
-   - Question Link: `https://www.chegg.com/expert-qa/questions/12345678`
+   - Question Link: `[https://www.chegg.com/expert-qa/questions/12345678](https://www.chegg.com/homework-help/questions-and-answers/-q170119857)`
 
 ## Important Notes
 
